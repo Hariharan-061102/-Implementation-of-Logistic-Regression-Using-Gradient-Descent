@@ -107,7 +107,7 @@ Recalling Sensitivity and Specificity:
 
 Visulaizing Training set Result:
 
-![decision tree classifier model](https://github.com/Hariharan-061102/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/5.jpg)
+![decision tree classifier model](https://github.com/Hariharan-061102/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/5.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
