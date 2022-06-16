@@ -91,23 +91,23 @@ plt.show()
 ## Output:
 Prediction of Test Result:
 
-![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/1.jpg)
+![decision tree classifier model](https://github.com/Hariharan-061102/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/1.jpg)
 
 Confusion Matrix:
 
-![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/2.jpg)
+![decision tree classifier model](https://github.com/Hariharan-061102/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/2.jpg)
 
 Accuracy:
 
-![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/3.jpg)
+![decision tree classifier model](https://github.com/Hariharan-061102/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/3.jpg)
 
 Recalling Sensitivity and Specificity:
 
-![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.jpg)
+![decision tree classifier model](https://github.com/Hariharan-061102/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.jpg)
 
 Visulaizing Training set Result:
 
-![decision tree classifier model](https://github.com/RanjithD18/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/5.png)
+![decision tree classifier model](https://github.com/Hariharan-061102/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/5.jpg)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
